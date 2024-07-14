@@ -9,10 +9,10 @@ const char END = '\n';
 
 void solve()
 {
-	ll n, k;
-	cin >> n >> k;
+	int n; cin >> n;
+	ll a[n]; for (int i = 0; i < n; i++) cin >> a[i];
 
-	cout << (n * k) - ((k - 1)) << END;
+	
 }
 
 int main(void)
