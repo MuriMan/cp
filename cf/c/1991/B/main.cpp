@@ -5,7 +5,6 @@
 using namespace std;
 
 typedef long long ll;
-typedef unsigned long long ull;
 const char END = '\n';
 
 void solve()
